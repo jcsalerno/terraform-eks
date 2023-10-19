@@ -3,5 +3,6 @@ locals {
     Department   = "DevOps"
     Organization = "Infraestructure and Operations"
     Project      = "EKS"
+    Environment  = "Development"
   }
 }
